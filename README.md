@@ -14,3 +14,8 @@ This repository contains all projects that were created while learning to create
 - Implemented CRUD operations to maintain and update policy embeddings
 - Enabled context-grounded responses to improve accessibility and understanding of insurance policies
 
+**Project 3:** Implementing vector database CRUD operations using LangChain and ChromaDB:
+- Created a persistent ChromaDB vector store populated with five years of Tesla earnings records
+- Implemented length-based document chunking across a folder of financial documents
+- Used LangChain abstractions to manage vector storage and retrieval
+- Performed read, update, and delete operations on stored embeddings
