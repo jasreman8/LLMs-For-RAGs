@@ -19,3 +19,10 @@ This repository contains all projects that were created while learning to create
 - Implemented length-based document chunking across a folder of financial documents
 - Used LangChain abstractions to manage vector storage and retrieval
 - Performed read, update, and delete operations on stored embeddings
+
+**Project 4:** Adding a foundational RAG CLI (command line interface) assistant for document Q&A:
+- Loaded a previously persisted ChromaDB vector store in a Colab environment
+- Connected and queried the persistent vector database for retrieval-augmented context
+- Designed a RAG prompt with a clear system message to guide context-grounded answers
+- Implemented a Python CLI chat interface for interactive document-based Q&A
+- Demonstrated a naive end-to-end workflow for automating document Q&A
